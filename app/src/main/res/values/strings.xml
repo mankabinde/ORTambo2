@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OR Tambo</string>
+    <string name="category_hotel">Hotel</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

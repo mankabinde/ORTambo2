@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "347299732037",
+    "firebase_url": "https://ortambo-1bec7.firebaseio.com",
+    "project_id": "ortambo-1bec7",
+    "storage_bucket": "ortambo-1bec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347299732037:android:746ee2ee202ab136",
+        "android_client_info": {
+          "package_name": "com.example.admin.ortambo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347299732037-g22p2q2gmbdmhaat8tc168ppm4fifev1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.ortambo",
+            "certificate_hash": "e0d6d41c25441d8f23c597bbbd8e04d42ae7db5c"
+          }
+        },
+        {
+          "client_id": "347299732037-885as5o4igbsv0ug3tfntnfvineog86o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsl5_VUJ1_NMD_VSUTiAvtgsa72TNNWPU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347299732037-885as5o4igbsv0ug3tfntnfvineog86o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
